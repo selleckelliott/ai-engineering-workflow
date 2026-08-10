@@ -2,13 +2,16 @@
 
 This repository may adapt ideas or files from external projects. Imports must be intentional, pinned, attributed, and reviewed before updates are accepted.
 
-## Current sources under evaluation
+## Current upstream sources
 
 ### Matt Pocock Skills
 
 - Upstream: `mattpocock/skills`
 - Purpose: composable engineering and productivity skills
-- Status: evaluated; selected adoption and customization pending
+- Status: complete repository imported at `upstream/mattpocock-skills`
+- Version: the exact imported SHA is recorded in `upstream/mattpocock-skills.import.yml`
+- Updates: future changes must be reviewed and imported deliberately
+- Customization: do not make local changes directly inside the upstream snapshot unless that strategy is explicitly chosen later
 
 ### Wayfinder Maps
 
